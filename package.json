@@ -1,0 +1,11 @@
+{
+  "name": "snake-game-nodejs",
+  "version": "1.0.0",
+  "description": "A terminal-based Snake game in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
